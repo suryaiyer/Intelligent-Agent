@@ -1,0 +1,38 @@
+The Start time is 1569683684.3704238
+
+Number of pits for each player is 4
+Number of stones in each pit initially is 2
+
+Number of states searched is 2385720481
+Player 1plays -> 4
+
+Player 0plays -> 4
+
+Number of states searched is 2710336
+Player 1plays -> 3
+
+Number of states searched is 3555679
+Player 1plays -> 4
+
+Number of states searched is 462
+Player 1plays -> 1
+
+Player 0plays -> 3
+
+Player 0plays -> 2
+
+Number of states searched is 65
+Player 1plays -> 3
+
+Player 0plays -> 4
+
+Number of states searched is 38
+Player 1plays -> 2
+
+Number of states searched is 8
+Player 1plays -> 1
+
+player 1 wins with score 13 - 3
+
+End time is time.struct_time(tm_year=2019, tm_mon=9, tm_mday=28, tm_hour=21, tm_min=31, tm_sec=5, tm_wday=5, tm_yday=271, tm_isdst=0)
+The total time in  seconds is 22580.680576324463

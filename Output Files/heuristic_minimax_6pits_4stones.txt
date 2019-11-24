@@ -1,0 +1,71 @@
+The Start time is 1569446261.1251214
+
+Number of pits for each player is 6
+Number of stones in each pit initially is 4
+
+Player 1plays -> 3
+
+Player 1plays -> 6
+
+Player 0plays -> 2
+
+Player 0plays -> 1
+
+Player 1plays -> 4
+
+Player 0plays -> 1
+
+Player 1plays -> 6
+
+Player 1plays -> 2
+
+Player 0plays -> 5
+
+Player 1plays -> 6
+
+Player 1plays -> 1
+
+Player 0plays -> 2
+
+Player 1plays -> 6
+
+Player 1plays -> 4
+
+Player 1plays -> 6
+
+Player 1plays -> 5
+
+Player 0plays -> 5
+
+Player 1plays -> 6
+
+Player 1plays -> 3
+
+Player 0plays -> 3
+
+Player 1plays -> 5
+
+Player 1plays -> 6
+
+Player 1plays -> 2
+
+Player 0plays -> 2
+
+Player 1plays -> 1
+
+Player 0plays -> 6
+
+Player 0plays -> 4
+
+Player 1plays -> 2
+
+Player 0plays -> 1
+
+Player 1plays -> 1
+
+Player 0plays -> 6
+
+player 1 wins with score 31 - 17
+
+End time is time.struct_time(tm_year=2019, tm_mon=9, tm_mday=25, tm_hour=22, tm_min=41, tm_sec=40, tm_wday=2, tm_yday=268, tm_isdst=0)
+The total time in  seconds is 5039.778205394745
