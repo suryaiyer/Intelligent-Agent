@@ -1,4 +1,4 @@
-#Mancala AI
+Mancala AI
 
 Creating and intelligent Agent which plays the Mancala game and selects moves using search algorithms
 
