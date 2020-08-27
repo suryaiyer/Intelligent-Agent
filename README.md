@@ -1,3 +1,6 @@
+#Mancala AI
+
+Creating and intelligent Agent which plays the Mancala game and selects moves using search algorithms
 
 Python files:
 - mancala.py: basic simulation, board design, and random moves.
